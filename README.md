@@ -34,3 +34,28 @@ This project was completed as part of the course **EEE103L: Computer Programming
 3. Run:
    ```bash
    ./eee_pocket_tool
+---
+
+## 📚 Academic Context
+
+- Course: EEE103L – Computer Programming Lab
+
+- Semester: Fall 2025
+
+- Institution: BRAC University
+
+---
+
+## 🚀 Learning Outcomes
+
+- Strengthened fundamentals of C programming
+
+- Implemented conceptual logic for engineering calculations
+
+- Improved problem-solving and debugging skills
+
+---
+
+## 📄 License
+
+This project is intended for academic and learning purposes.
