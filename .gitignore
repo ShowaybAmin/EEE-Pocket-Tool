@@ -1,0 +1,14 @@
+# Code::Blocks generated files
+bin/
+obj/
+*.o
+*.exe
+*.depend
+*.layout
+
+# Executables
+main
+
+# OS files
+.DS_Store
+Thumbs.db
